@@ -1,0 +1,1 @@
+arm-none-eabi-ld --entry=__start -nostdlib -T /home/abisop-nvme/project_debugger/togit/app/nuttx/scripts/f401re.ld -o nuttx.elf CMakeFiles/nuttx.dir/pid.c.o CMakeFiles/nuttx.dir/main.cpp.o   -L/home/abisop-nvme/project_debugger/togit/app/nuttx/libs  --start-group -larch --end-group 

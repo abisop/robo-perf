@@ -1,0 +1,5 @@
+/home/abisop-nvme/project_debugger/togit/app/b/CMakeFiles/edit_cache.dir
+/home/abisop-nvme/project_debugger/togit/app/b/CMakeFiles/rebuild_cache.dir
+/home/abisop-nvme/project_debugger/togit/app/b/modules/pid/CMakeFiles/nuttx.dir
+/home/abisop-nvme/project_debugger/togit/app/b/modules/pid/CMakeFiles/edit_cache.dir
+/home/abisop-nvme/project_debugger/togit/app/b/modules/pid/CMakeFiles/rebuild_cache.dir
